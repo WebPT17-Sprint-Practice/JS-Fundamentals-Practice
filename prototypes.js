@@ -24,7 +24,7 @@
 
   
   
-  /* == Step 4: Create a new object that uses CubeMAker ==
+  /* == Step 4: Create a new object that uses CubeMaker ==
     Create a cube object that uses the 'new; keyword to use our CubeMaker constructor
     Add a value of edge = 5.   
   */

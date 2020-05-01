@@ -33,8 +33,13 @@ const student1 = {
 
 
 
-// ARRAYS
+
 // Create a new Greeting method for Stacy.  When called, return "Hello, my name is {name}!" Log the result.
+
+
+
+// ARRAYS
+
 
 
 // Given an array of basketball players.  Complete the following requests using any array method you like
@@ -56,7 +61,7 @@ const players = [
   
   Once you have the new array created, sort the teams alphabetically and log the result. */
 
-  /* Request 2: Create a new array called playerProfile that contains both the name and position of each student. This will be an array of strings.
+  /* Request 2: Create a new array called playerProfile that contains both the name and position of each player. This will be an array of strings.
   The resulting contact information strings should have a space between the name and the position, like this: 
   "Allen Point Guard"
   

@@ -8,17 +8,17 @@
 */
 
   
-  /* Step 2: Create several functions to callback with consume();
+  /* Step 2: Create several functions to callback with higherOrder();
     * Create a function named subtract that returns the difference of two numbers
     * Create a function named division that returns the division of two numbers 
     * Create a function named goodbye that accepts a name and customFarewell param and returns "Goodbye {name}, {customFarewell}!"
   */
   
   
-  /* Step 3: Check your work by un-commenting the following calls to consume(): */
+  /* Step 3: Check your work by un-commenting the following calls to higherOrder(): */
   // console.log(higherOrder(2, 2, subtract)); // 0
   // console.log(higherOrder(16, 2, division)); // 8
-  // console.log(higherOrder("Mary", "I'll see you tomorrow!", farewell)); // Goodbye Mary, I'll see you tomorrow!
+  // console.log(higherOrder("Mary", "I'll see you tomorrow!", goodbye)); // Goodbye Mary, I'll see you tomorrow!
   
   
   // ==== Closures ==== 
