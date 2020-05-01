@@ -37,7 +37,7 @@ const student1 = {
 // Create a new Greeting method for Stacy.  When called, return "Hello, my name is {name}!" Log the result.
 
 
-// Given an array of college graduates.  Complete the following requests using any array method you like
+// Given an array of basketball players.  Complete the following requests using any array method you like
 
 const players = [
     { id: 1, name: "Michael Jordan", team: "Bulls", position: "Shooting Guard" },
@@ -52,9 +52,9 @@ const players = [
     { id: 10, name: "Ricky Rubio", team: "Timberwolves", position: "Point Guard" },
   ];
   
-  /* Request 1: Create a new array called teams that contains all the universities in the graduates array. This will be an array of strings.
+  /* Request 1: Create a new array called teams that contains all the teams in the players array. This will be an array of strings.
   
-  Once you have the new array created, sort the universities alphabetically and log the result. */
+  Once you have the new array created, sort the teams alphabetically and log the result. */
 
   /* Request 2: Create a new array called playerProfile that contains both the name and position of each student. This will be an array of strings.
   The resulting contact information strings should have a space between the name and the position, like this: 
@@ -68,7 +68,7 @@ const players = [
   
   // ==== ADVANCED Array Methods ====
   
-  // Given this zoo data from around the United States, follow the instructions below.  Use the specific array methods in the requests below to solve the problems.
+  // Given this city data from around the United States, follow the instructions below.  Use the specific array methods in the requests below to solve the problems.
   
   const cities = [
     { city: "Los Angeles", population: 5000000, state: "California", nickname: "CITY OF ANGELS" },
